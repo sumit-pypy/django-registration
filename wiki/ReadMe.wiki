@@ -1,6 +1,6 @@
 =Django Registration=
 
-_(The latest version of this document, in reStructuredText format, is always available in the README file distributed with this application)_
+_(The latest version of this document, in reStructuredText format, is always available in the README .txt file distributed with this application)_
 
 This is a fairly simple user-registration application for [http://www.djangoproject.com/ Django],
 designed to make allowing user signups as painless as possible. It
