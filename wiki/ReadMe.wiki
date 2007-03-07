@@ -1,3 +1,4 @@
+#labels Featured
 =Django Registration=
 
 _(The latest version of this document, in reStructuredText format, is always available in the README .txt file distributed with this application)_
@@ -23,6 +24,13 @@ svn checkout http://django-registration.googlecode.com/svn/trunk/ registration
 }}}
 
 If you've already downloaded, rename the directory before installing.
+
+Then, just add `registration` to the `INSTALLED_APPS` setting of
+your project, and you should be good to go.
+
+Note that one of the templates included with this app uses the
+`humanize` library, so you'll want to have
+`django.contrib.humanize` installed if you don't already.
 
 ==The short and sweet instructions==
 
