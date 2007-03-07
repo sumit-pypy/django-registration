@@ -120,6 +120,10 @@ your `TEMPLATE_LOADERS` setting (and it's in there by default), you
 should be able to just edit them in-place to suit your site's layout,
 and Django will pick them up automatically.
 
+The included template for activation emails requires the `humanize`
+library, so it you use it as-is, be sure to add `django.contrib.humanize`
+to your `INSTALLED_APPS` setting.
+
 
 ==Questions? Problems?==
 
