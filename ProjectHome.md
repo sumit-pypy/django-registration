@@ -1,0 +1,1 @@
+django-registration has moved from Google Code to Bitbucket; please head on over to [the django-registration Bitbucket page](http://bitbucket.org/ubernostrum/django-registration/) for current code and documentation.

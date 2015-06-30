@@ -1,0 +1,1 @@
+Full documentation for this application is available [here](http://django-registration.googlecode.com/svn/trunk/docs/overview.txt).
